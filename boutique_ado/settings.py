@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-r78c=caitoj-&@yx00zv6kk=_#l4a+sd!ta5v)7d6a70qf)7v*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-sorinpan-boutique-ado-8nvr0j5y90.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-sorinpan-boutique-ado-2drki0zy62.us2.codeanyapp.com']
 
 
 # Application definition
